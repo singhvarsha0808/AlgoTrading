@@ -1,4 +1,4 @@
-# Algo Trading
+# AlgoTrading in Python
 
 To use HitBTC APIs to get BTC data and store it in a google sheet.
 
